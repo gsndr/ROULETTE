@@ -5,15 +5,24 @@ The repository contains code refered to the work:
 
 _Giuseppina Andresini, Annalisa Appice, Francesco Paolo Caforio, Donato Malerba, Gennario Vessio_
 
-[ROULETTE: A Neural Attention Multi-Output Modelfor Explainable Network Intrusion Detection]() 
+[ROULETTE: A Neural Attention Multi-Output Modelfor Explainable Network Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S0957417422005395) 
 
 Please cite our work if you find it useful for your research and work.
 ```
  @article{ANDRESINI2021108,
+ title = {ROULETTE: A neural attention multi-output model for explainable Network Intrusion Detection},
+journal = {Expert Systems with Applications},
+volume = {201},
+pages = {117144},
+year = {2022},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2022.117144},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417422005395},
+author = {Giuseppina Andresini and Annalisa Appice and Francesco Paolo Caforio and Donato Malerba and Gennaro Vessio}}
 
 ```
 
-![ROULETTE]()
+![ROULETTE](https://ars.els-cdn.com/content/image/1-s2.0-S0957417422005395-gr1.jpg)
 
 ## Code requirements
 The code relies on the following python3.7+ libs.
@@ -25,7 +34,7 @@ Packages needed are:
 * Hyperopt 0.2.5
 * Keras 2.4.3
 * Scikit-learn 0.24.2
-* [Visual-attention-tf 1.2 ] (https://pypi.org/project/visual-attention-tf/)
+* [Visual-attention-tf 1.2](https://pypi.org/project/visual-attention-tf/)
 
 
 ## Data
